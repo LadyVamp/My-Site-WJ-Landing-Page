@@ -39,7 +39,6 @@ body {
   font-family: Bariol-Regular;
   color: #fefefe;
   text-align: center;
- // text-shadow: 1px 1px 1px black;
 }
 
 .wrap{
@@ -86,15 +85,6 @@ h1, h2, h3, p {
 
 #header_menu .menu .target {
   background: #1f1f20;
-}
-.angle{
-  height: 121px;
-  width: 64px;
-  background: url(images/angle.jpg);
-  position: absolute;
-  right: 0;
-  top: 0;
-
 }
 
 a {
