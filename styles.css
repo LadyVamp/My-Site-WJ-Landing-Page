@@ -511,7 +511,6 @@ span {
   float: left;
   display: block;
   overflow: hidden;
- /* margin: 15px 0 0 0;*/
   font-family: Bariol-Regular;
   font-size: 18px;
   color: #eb4f4e;
@@ -557,4 +556,20 @@ span {
 		width: 100%;
 		float: none;
 	}
+}
+
+/*Button up*/
+.btn_up{
+  background: #eb4f4e;
+  color: #fff;
+  width: 30px;
+  text-align:center;
+  padding: 5px;
+  font-size: 25px;
+  border-radius: 50%;
+  display: none;
+  cursor: pointer;
+  position: fixed;
+  bottom: 100px;
+  right: 50px;
 }
